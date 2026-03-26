@@ -1,0 +1,10 @@
+0,3
+6,10
+rrrrrggggggg
+rssssggmmmgg
+rsgggggmmmgg
+rsgddddddggg
+rsgddmmmmmmg
+rsgddmmggggg
+rsgddmmgwwww
+rrrrrrrggwww
